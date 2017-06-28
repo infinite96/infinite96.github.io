@@ -1,4 +1,4 @@
-# Infinite Blog: Запуск блога
+# Infinite Blog: Запуск блога :3
 
 Я запустил свой сообственный блог на GitHub Pages.
 
