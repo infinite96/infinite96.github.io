@@ -1,5 +1,5 @@
 # Infinite Site
-_ Coming soon!
+_Coming soon!
 
 ### what is it?
 
