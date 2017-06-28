@@ -6,7 +6,6 @@
 
 **Карта сайта:**
 - [Приветствие](hello.md)
-- [Делаем сайт на GitHub Pages](ghpcreate.md)
 - [Мой набор музыки](mymusic.md)
 
 ***
